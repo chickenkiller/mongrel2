@@ -4,6 +4,8 @@ Mongrel2: The Language Agnostic Web Server
 Mongrel2 is an application, language, and network architecture agnostic web
 server that focuses on web applications using modern browser technologies.
 
+[![Build Status](https://travis-ci.org/chickenkiller/mongrel2.png)](https://travis-ci.org/chickenkiller/mongrel2)
+
 Features
 --------
 
