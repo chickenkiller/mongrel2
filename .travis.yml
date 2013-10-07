@@ -9,6 +9,6 @@ python:
 
 before_install:
  - sudo apt-get update -qq
- - sudo apt-get install -qq libzmq libzmq-dev
+ - sudo apt-get install -qq libzmq-dev
  
 script: make check && make all && make tests
